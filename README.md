@@ -9,3 +9,7 @@ Data set consists of 7553 RGB images in 2 folders as withmask and withoutmask. I
 
 # SUMMARY
 In this project, we have developed a deep learning model for face mask detection using Python, Keras, and OpenCV. We developed the face mask detector model for detecting whether person is wearing a mask or not. We have trained the model using Keras with network architecture. Training the model is the first part of this project and testing using webcam using OpenCV is the second part.
+
+
+![f1](https://user-images.githubusercontent.com/60866104/103443610-0d28b680-4c87-11eb-84be-2f4b9fbf50f4.PNG)
+![f](https://user-images.githubusercontent.com/60866104/103443612-1023a700-4c87-11eb-85bc-b212040f30ce.PNG)
